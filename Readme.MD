@@ -1,3 +1,6 @@
+<head>
+<link rel="">
+</head>
 Hi, I’m @SkyIslandExplore
 
 I’m interested in web devlopment
