@@ -1,5 +1,5 @@
-Hi, I’m @SkyIslandExplore
+Hi, I’m @SkyExploreWasTaken
 
 How to reach me :
 
-* My Discord Username : `skyexplore_`
+* My Discord Username : `skyexplorewastaken`
