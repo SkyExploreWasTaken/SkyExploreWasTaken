@@ -2,7 +2,7 @@ Hi, I’m [@SkyExploreWasTaken](https://github.com/SkyExploreWasTaken)
 
 How to reach me :
 
-* My Discord Username : `skyexplorewastaken`
+* My Discord Username : ||`skyexplorewastaken`||
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyExploreWasTaken&show_icons=true&theme=dark)
