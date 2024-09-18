@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=500&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&width=700&height=100&lines=Welcome%2C+I'm+SkyExploreWasTaken%2C;I+do+play+video+games+and+code+websites+on+my+free+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=500&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome%2C+I'm+SkyExploreWasTaken%2C;I+do+play+video+games+and+code+websites+on+my+free+time.)](https://git.io/typing-svg)
 
 How to reach me :
 
