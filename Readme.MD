@@ -6,6 +6,7 @@ How to reach me :
 
 * My Discord Username : `skyexplorewastaken`
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1049263707177353247?showDisplayName=true)](https://discord.com/users/1049263707177353247)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyExploreWasTaken&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyExploreWasTaken&layout=compact&theme=dark)
