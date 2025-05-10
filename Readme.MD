@@ -2,9 +2,9 @@
 
 How to reach me :
 
-* My E-Mail : [contact@sewt.is-a.dev](mailto:contact@sewt.is-a.dev)
+* My E-Mail : [skyexplorewastaken@gmail.com](mailto:skyexplorewastaken@gmail.com)
 
-* My Discord Username : `skyexplorewastaken`
+* My Discord Username : `skyexplorewt`
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1049263707177353247?showDisplayName=true)](https://discord.com/users/1049263707177353247)
 
